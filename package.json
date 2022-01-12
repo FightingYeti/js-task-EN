@@ -1,0 +1,19 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "In file task.js add code for two tasks described in it. Results of both tasks should be shown after typing:",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FightingYeti/js-task-EN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FightingYeti/js-task-EN/issues"
+  },
+  "homepage": "https://github.com/FightingYeti/js-task-EN#readme"
+}
